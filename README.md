@@ -28,3 +28,6 @@ Belajar kelas Memulai
 
 **23 Juni 2021**  
 Belajar kelas Memulai
+
+**24 Juni 2021**  
+Belajar kelas Memulai
