@@ -22,3 +22,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 **21 Juni 2021**  
 Belajar kelas Memulai
+
+**22 Juni 2021**  
+Belajar kelas Memulai
